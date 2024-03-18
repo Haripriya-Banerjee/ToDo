@@ -1,0 +1,5 @@
+.completed {
+    color: rgb(176, 34, 34);
+    background-color: rgba(189, 180, 86, 0.587);
+    text-decoration: line-through;
+}
